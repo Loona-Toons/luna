@@ -8,16 +8,16 @@
 ## 🛠️ My Tech Stack
 
 ### 🚀 Core Languages & APIs
-![Java](https://shields.io)
-![PaperMC](https://shields.io)
-![Spigot](https://shields.io)
-![Velocity](https://shields.io)
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="PaperMC" />
+<img src="https://shields.io" alt="Spigot" />
+<img src="https://shields.io" alt="Velocity" />
 
 ### 📦 Tools & Storage
-![Git](https://shields.io)
-![Gradle](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="Gradle" />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="MongoDB" />
 
 ---
 
@@ -44,8 +44,8 @@
 
 Feel free to reach out if you need proprietary systems built for your server network!
 
-[![Discord](https://shields.io)](https://discord.com)
-[![Email](https://shields.io)](mailto:lunainquires@gmail.com)
+<a href="https://discord.com"><img src="https://shields.io" alt="Discord" /></a>
+<a href="mailto:lunainquires@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 
 ---
 <p align="center">⚡ Fun Fact: Efficient code keeps the creepers from lagging the server! ⚡</p>
