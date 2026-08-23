@@ -1,4 +1,4 @@
-# <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" /> Hi, I'm Luna!
+# ⚡ Hi, I'm Luna!
 
 ### 💻 Advanced Java & Minecraft Backend Developer
 *Crafting high-performance, lag-free experiences for Minecraft networks.*
@@ -8,16 +8,14 @@
 ## 🛠️ My Tech Stack
 
 ### 🚀 Core Languages & APIs
-<img src="https://shields.io" alt="Java" />
-<img src="https://shields.io" alt="PaperMC" />
-<img src="https://shields.io" alt="Spigot" />
-<img src="https://shields.io" alt="Velocity" />
+* **Java:** Advanced Object-Oriented Systems & NMS Mechanics
+* **PaperMC / Spigot API:** Custom High-Performance Server Utility Systems
+* **Velocity / BungeeCord:** Scalable Cross-Server Network Proxies
 
-### 📦 Tools & Storage
-<img src="https://shields.io" alt="Git" />
-<img src="https://shields.io" alt="Gradle" />
-<img src="https://shields.io" alt="MySQL" />
-<img src="https://shields.io" alt="MongoDB" />
+### 📦 Tools, Frameworks & Storage
+* **Build Automation:** Maven & Gradle 
+* **Version Control:** Git & GitHub Source Management
+* **Data Persistence:** SQL (MySQL, SQLite) & NoSQL (MongoDB, Redis)
 
 ---
 
@@ -44,8 +42,8 @@
 
 Feel free to reach out if you need proprietary systems built for your server network!
 
-<a href="https://discord.com"><img src="https://shields.io" alt="Discord" /></a>
-<a href="mailto:lunainquires@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+* **Discord:** `_ignluna`
+* **Email:** lunainquires@gmail.com
 
 ---
 <p align="center">⚡ Fun Fact: Efficient code keeps the creepers from lagging the server! ⚡</p>
